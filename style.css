@@ -71,6 +71,9 @@
     /* overflow: hidden; */
 
 }
+.about .img img{
+    z-index: -1;
+}
 .about .outer-div{
     transform: translate(3rem, 3rem);
     overflow: hidden;
